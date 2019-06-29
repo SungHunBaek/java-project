@@ -31,5 +31,9 @@ public class Cities {
 	City.buildARoad();
 	Capital.buildARoad();
 	
+	City city2 = new City(33344,"Fairfax");
+	Capital capital2 = new Capital(53554,"Richmond",12524L);
+	
+	
 	}
 }
